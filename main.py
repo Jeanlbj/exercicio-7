@@ -30,8 +30,10 @@ if __name__ == '__main__':
 
     # Printado salários
 
+    print("Salários:")
+
     print(salario1)
     print(salario2)
     print(salario3)
 
-    print("Programa finalizado")
+    print("\nPrograma finalizado")

@@ -35,4 +35,4 @@ class Funcionario:
         return salarioLiquido
 
     def toStr(self):
-        return f"Nome do Funcionário: {self.getNome()}\nSalário Líquido: {self.__calcularSalarioLiquido()}\n"
+        return f"\nNome do Funcionário: {self.getNome()}\nSalário Líquido: {self.__calcularSalarioLiquido()}"
